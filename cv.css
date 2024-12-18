@@ -1,0 +1,27 @@
+body{
+    background-color: pink;
+    
+}
+.image{
+    background-image: url(ciel.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    font-family:'Times New Roman';
+    color: purple;
+}
+h2{
+    color: blueviolet;
+}
+table{
+    background: rgb(123, 15, 15);
+    border-radius: 12PX;
+    align-items: center;
+    align-content: center;
+
+}
+.th,td{
+    border: 50px,solid #ddd;
+    background-color: #ddd;
+}
